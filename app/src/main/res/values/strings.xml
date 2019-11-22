@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">USTHFacebook</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="home">This is home page</string>
+    <string name="friend">This is list friend</string>
+    <string name="messenger">This is your message </string>
+    <string name="more">This is more info </string>
+    <string name="notification">This is notification</string>
+
 </resources>
